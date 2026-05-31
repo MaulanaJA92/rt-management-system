@@ -244,6 +244,7 @@ Password : password
 ## Pembayaran
 
 ![Payments](screenshots/Screenshot6.png)
+![Payments](screenshots/Screenshot10.png)
 ![Payments](screenshots/Screenshot7.png)
 
 ## Pengeluaran
