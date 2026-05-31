@@ -181,7 +181,7 @@ http://127.0.0.1:8000
 
 # Instalasi Frontend
 
-Masuk ke folder frontend
+Buka terminal/command prompt baru, lalu masuk ke folder frontend:
 
 ```bash
 cd frontend
