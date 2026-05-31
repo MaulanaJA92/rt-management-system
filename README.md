@@ -91,6 +91,24 @@ project-root
 ```
 
 ---
+# Clone Repository
+
+```bash
+git clone https://github.com/MaulanaJA92/rt-management-system.git
+
+cd rt-management-system
+```
+
+---
+
+# Requirements
+
+- PHP 8.2+
+- Composer
+- Node.js 20+
+- MySQL 8+
+
+---
 
 # Instalasi Backend
 
@@ -175,12 +193,6 @@ Install dependency
 npm install
 ```
 
-Atur URL API pada file environment
-
-<!-- ```env
-VITE_API_URL=http://127.0.0.1:8000/api
-``` -->
-
 Jalankan frontend
 
 ```bash
@@ -191,6 +203,12 @@ Frontend berjalan pada:
 
 ```text
 http://localhost:5173
+```
+
+Frontend sudah dikonfigurasi untuk mengakses backend pada:
+
+```text
+http://127.0.0.1:8000/api
 ```
 
 ---
