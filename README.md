@@ -136,7 +136,7 @@ Generate application key
 php artisan key:generate
 ```
 
-Buat database MySQL
+Buat database baru bernama `rt_management` melalui MySQL client Anda (phpMyAdmin/Workbench/Terminal).
 
 ```sql
 CREATE DATABASE rt_management;
